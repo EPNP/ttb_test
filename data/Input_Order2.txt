@@ -1,0 +1,10 @@
+H	Cust_ID	Order_ID	Product_Id	numberOfOrders
+D	1001	Order_001	P1007	3
+D	1002	Order_002	P1004	3
+D	1003	Order_003	P1003	4
+D	1004	Order_004	P1009	5
+D	1005	Order_005	P1009	2
+D	1006	Order_006	P1001	2
+D	1007	Order_007	P1002	3
+D	1008	Order_008	P1006	10
+T	8			

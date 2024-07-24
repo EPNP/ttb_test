@@ -1,0 +1,11 @@
+H	Cust_ID	Cust_name	Age	address	gender
+D	1001	Name_A	25	address1	MALE
+D	1002	Name_B	49	address2	MALE
+D	1003	Name_C	23	address3	FEMALE
+D	1004	Name_C	12	address4	MALE
+D	1005	Name_E	9	address5	FEMALE
+D	1006	Name_F	15	address6	MALE
+D	1007	Name_G	24	address7	FEMALE
+D	1008	Name_H	32	address8	FEMALE
+D	1009	Name_I	24	address9	MALE
+T	9				

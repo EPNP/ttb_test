@@ -1,0 +1,11 @@
+H	Customer.Cust_ID	Order.Order_ID	Product.Product Name	Order.numberOfOrders	Summary price
+D	1001.0	Order_001	Fiction1	3.0	594.00
+D	1002.0	Order_002	Erasers	3.0	15.00
+D	1003.0	Order_003	Rulers	4.0	56.00
+D	1004.0	Order_004	Fiction3	5.0	1225.00
+D	1005.0	Order_005	Fiction3	2.0	490.00
+D	1006.0	Order_006	Pencils	2.0	30.00
+D	1007.0	Order_007	Notebooks	3.0	75.00
+D	1008.0	Order_008	Education 1	10.0	1230.00
+T	8
+T	9

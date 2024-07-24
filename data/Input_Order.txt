@@ -1,0 +1,11 @@
+H|H|Cust_ID|Order_ID|Product_Id|numberOfOrders
+D|D|1001|Order_001|P1007|3.0
+D|D|1002|Order_002|P1004|3.0
+D|D|1003|Order_003|P1003|4.0
+D|D|1004|Order_004|P1009|5.0
+D|D|1005|Order_005|P1009|2.0
+D|D|1006|Order_006|P1001|2.0
+D|D|1007|Order_007|P1002|3.0
+D|D|1008|Order_008|P1006|10.0
+D|T|8|nan|nan|nan
+T|9

@@ -1,0 +1,13 @@
+H|H|Product_Id|Product Name|Description|Stock Quantity|Price|Category|Brand|Status|Date Added
+D|D|P1001|Pencils|Pencils|100.0|15.0|Stationery|nan|Y|2024-03-20 00:00:00
+D|D|P1002|Notebooks|Notebooks|45.0|25.0|Stationery|nan|Y|2024-03-21 00:00:00
+D|D|P1003|Rulers|Rulers|34.0|14.0|Stationery|nan|Y|2024-03-22 00:00:00
+D|D|P1004|Erasers|Erasers|2345.0|5.0|Stationery|nan|Y|2024-03-23 00:00:00
+D|D|P1005|Children1|Children1|34.0|59.0|Children's Books|nan|Y|2024-03-24 00:00:00
+D|D|P1006|Education 1|Education 1|56.0|123.0|Education |nan|Y|2024-03-25 00:00:00
+D|D|P1007|Fiction1|Fiction1|23.0|198.0|Fiction|nan|Y|2024-03-26 00:00:00
+D|D|P1008|Fiction2|Fiction2|32.0|300.0|Fiction|nan|Y|2024-03-27 00:00:00
+D|D|P1009|Fiction3|Fiction3|4.0|245.0|Fiction|nan|N|2024-03-28 00:00:00
+D|D|P1010|nan|nan|nan|nan|nan|nan|Y|2024-03-29 00:00:00
+D|T|10|nan|nan|nan|nan|nan|nan|nan|NaT
+T|11

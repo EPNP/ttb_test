@@ -1,0 +1,12 @@
+H|H|Cust_ID|Cust_name|Age|address|gender
+D|D|1001|Name_A|25.0|address1|MALE
+D|D|1002|Name_B|49.0|address2|MALE
+D|D|1003|Name_C|23.0|address3|FEMALE
+D|D|1004|Name_C|12.0|address4|MALE
+D|D|1005|Name_E|9.0|address5|FEMALE
+D|D|1006|Name_F|15.0|address6|MALE
+D|D|1007|Name_G|24.0|address7|FEMALE
+D|D|1008|Name_H|32.0|address8|FEMALE
+D|D|1009|Name_I|24.0|address9|MALE
+D|T|9|nan|nan|nan|nan
+T|10

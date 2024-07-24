@@ -1,0 +1,12 @@
+H	Product_Id	Product Name	Description	Stock Quantity	Price	Category	Brand	Status	Date Added
+D	P1001	Pencils	Pencils	100	15	Stationery		Y	20/3/24
+D	P1002	Notebooks	Notebooks	45	25	Stationery		Y	21/3/24
+D	P1003	Rulers	Rulers	34	14	Stationery		Y	22/3/24
+D	P1004	Erasers	Erasers	2345	5	Stationery		Y	23/3/24
+D	P1005	Children1	Children1	34	59	Children's Books		Y	24/3/24
+D	P1006	Education 1	Education 1	56	123	Education 		Y	25/3/24
+D	P1007	Fiction1	Fiction1	23	198	Fiction		Y	26/3/24
+D	P1008	Fiction2	Fiction2	32	300	Fiction		Y	27/3/24
+D	P1009	Fiction3	Fiction3	4	245	Fiction		N	28/3/24
+D	P1010							Y	29/3/24
+T	10								
